@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\Gor\C#\MIC\PostfixCalculator\PostfixCalculator\bin\Debug\PostfixCalculator.exe.config
+C:\Users\Dell\Desktop\Gor\C#\MIC\PostfixCalculator\PostfixCalculator\bin\Debug\PostfixCalculator.exe
+C:\Users\Dell\Desktop\Gor\C#\MIC\PostfixCalculator\PostfixCalculator\bin\Debug\PostfixCalculator.pdb
+C:\Users\Dell\Desktop\Gor\C#\MIC\PostfixCalculator\PostfixCalculator\obj\Debug\PostfixCalculator.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\PostfixCalculator\PostfixCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Desktop\Gor\C#\MIC\PostfixCalculator\PostfixCalculator\obj\Debug\App.g.cs
+C:\Users\Dell\Desktop\Gor\C#\MIC\PostfixCalculator\PostfixCalculator\obj\Debug\PostfixCalculator_MarkupCompile.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\PostfixCalculator\PostfixCalculator\obj\Debug\PostfixCalculator_MarkupCompile.lref
+C:\Users\Dell\Desktop\Gor\C#\MIC\PostfixCalculator\PostfixCalculator\obj\Debug\MainWindow.baml
+C:\Users\Dell\Desktop\Gor\C#\MIC\PostfixCalculator\PostfixCalculator\obj\Debug\PostfixCalculator.g.resources
+C:\Users\Dell\Desktop\Gor\C#\MIC\PostfixCalculator\PostfixCalculator\obj\Debug\PostfixCalculator.Properties.Resources.resources
+C:\Users\Dell\Desktop\Gor\C#\MIC\PostfixCalculator\PostfixCalculator\obj\Debug\PostfixCalculator.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\PostfixCalculator\PostfixCalculator\obj\Debug\PostfixCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\PostfixCalculator\PostfixCalculator\obj\Debug\PostfixCalculator.exe
+C:\Users\Dell\Desktop\Gor\C#\MIC\PostfixCalculator\PostfixCalculator\obj\Debug\PostfixCalculator.pdb
+C:\Users\Dell\Desktop\Gor\C#\MIC\PostfixCalculator\PostfixCalculator\obj\Debug\App.baml
